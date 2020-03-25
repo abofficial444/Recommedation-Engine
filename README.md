@@ -1,2 +1,2 @@
-# Recommedation-Engine
+# Recommendation-Engine
 Content based - using cosine similarities
